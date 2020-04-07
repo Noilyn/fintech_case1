@@ -282,3 +282,9 @@ TSWLatexianTemp*
 # pycharm files
 *.DS_Store
 
+# datasets
+*.pkl
+
+# model
+*.m
+
